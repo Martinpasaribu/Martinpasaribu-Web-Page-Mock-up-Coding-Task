@@ -3,7 +3,7 @@ import React from "react";
 
 export const Mock_up = () =>{
     return(
-        <div className="w-full h-screen bg-bg1 bg-no-repeat bg-cover relative">
+        <div className="w-full h-screen bg-bg1 bg-no-repeat bg-cover relative overflow-hidden">
         
         <div className=" flex  flex-col md:flex-row  items-end pb-5 text-center  text-white font-sans h-full">
 
