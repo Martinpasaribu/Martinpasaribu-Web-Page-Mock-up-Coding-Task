@@ -22,6 +22,11 @@ module.exports = {
       animation: {
         'fadeInUp': 'fadeInUp 0.5s ease-in-out',
       },
+      height: {
+        '33': '8rem',   // height: 16px
+
+      },
+
       fontFamily: {
         'linkstyle': ['Linkstyle', 'sans-serif',],
         'gaya-apa' : ['Robot'],
@@ -44,8 +49,9 @@ module.exports = {
         light2:"#5AC6FA",
         dark:"#459CE3",
         red2:"#E3634D",
-        abu:"#696868FD",
-        abu2:"#949494FD"
+        abu:"#6F6F6FFD",
+        abu2:"#949494FD",
+        putih:"#FFFFFFE2"
 
         
       },
