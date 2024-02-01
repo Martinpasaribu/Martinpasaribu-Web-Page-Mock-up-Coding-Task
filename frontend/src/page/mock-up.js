@@ -11,7 +11,7 @@ export const Mock_up = () =>{
 
                 <div className="w-full md:w-1/2 flex flex-col gap-y-2 my-4 md:gap-y-4 md:mt-6 md:mr-20">
                     <div className="flex  gap-x-2 ">
-                        <div className="w-10 my-auto ml-10">
+                        <div className="w-10 my-auto md:mx-1 ml-10">
                             <svg 
                                 className="fill-white "
                                 xmlns="http://www.w3.org/2000/svg" 
@@ -61,7 +61,7 @@ export const Mock_up = () =>{
                             <a className="p-2 font-xs border border-white " href="">Download</a>
                         </button>
                         <div className="md:hidden m-auto ml-3">
-                            <button >
+                            <button className="">
                                 <svg
                                 className="fill-white" 
                                 xmlns="http://www.w3.org/2000/svg" 
@@ -96,7 +96,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button >
+                        <button className="">
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -132,7 +132,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white" href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button >
+                        <button className="">
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -169,7 +169,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button >
+                        <button className="">
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -207,7 +207,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button >
+                        <button className="">
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
