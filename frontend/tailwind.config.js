@@ -51,7 +51,8 @@ module.exports = {
         red2:"#E3634D",
         abu:"#6F6F6FFD",
         abu2:"#949494FD",
-        putih:"#FFFFFFE2"
+        putih:"#FFFFFFE2",
+        putih2:"#FFFFFFBD"
 
         
       },

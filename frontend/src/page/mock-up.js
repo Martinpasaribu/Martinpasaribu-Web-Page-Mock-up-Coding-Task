@@ -11,7 +11,7 @@ export const Mock_up = () =>{
 
                 <div className="w-full md:w-1/2 flex flex-col gap-y-2 my-4 md:gap-y-4 md:mt-6 md:mr-20">
                     <div className="flex  gap-x-2 ">
-                        <div className="w-10 my-auto l-10 md:m-auto m">
+                        <div className="w-10 mt-4 ml-10 md:m-auto m">
                             <svg 
                                 className="fill-white "
                                 xmlns="http://www.w3.org/2000/svg" 
@@ -26,10 +26,10 @@ export const Mock_up = () =>{
                         </div>
 
                     </div>
-                    <div className="w-[21.5rem] md:w-3/5 text-ms md:text-xs ml-10 md:ml-0">
+                    <div className="w-[21.5rem] md:w-3/5 text-ms md:text-xs ml-10 md:ml-0  text-putih2">
                         <p>Modern browsers protect your device from viruses and support new technologies.</p>
                     </div>
-                    <div className="w-[21.5rem] ]md:w-3/5 text-ms md:text-xs ml-10 md:ml-0">
+                    <div className="w-[21.5rem] ]md:w-3/5 text-ms md:text-xs ml-10 md:ml-0  text-putih2">
                         <p>That’s why we decided to stop supporting your current browser or your browser version. To access our website, 
                     please download one of the browsers below. 
                         </p>
