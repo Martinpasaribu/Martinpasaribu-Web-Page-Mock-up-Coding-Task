@@ -11,7 +11,7 @@ export const Mock_up = () =>{
 
                 <div className="w-full md:w-1/2 flex flex-col gap-y-2 my-4 md:gap-y-4 md:mt-6 md:mr-20">
                     <div className="flex  gap-x-2 ">
-                        <div className="w-10 my-auto md:mx-1 ml-10">
+                        <div className="w-10 my-auto l-10 md:m-auto m">
                             <svg 
                                 className="fill-white "
                                 xmlns="http://www.w3.org/2000/svg" 
