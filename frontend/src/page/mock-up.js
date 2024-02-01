@@ -61,7 +61,7 @@ export const Mock_up = () =>{
                             <a className="p-2 font-xs border border-white " href="">Download</a>
                         </button>
                         <div className="md:hidden m-auto ml-3">
-                            <button className="">
+                            <button >
                                 <svg
                                 className="fill-white" 
                                 xmlns="http://www.w3.org/2000/svg" 
@@ -96,7 +96,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button className="">
+                        <button >
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -132,7 +132,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white" href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button className="">
+                        <button >
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -169,7 +169,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button className="">
+                        <button >
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
@@ -207,7 +207,7 @@ export const Mock_up = () =>{
                         <a className="p-2 font-xs border border-white " href="">Download</a>
                     </button>
                     <div className="md:hidden m-auto ml-3">
-                        <button className="">
+                        <button >
                             <svg
                             className="fill-white" 
                             xmlns="http://www.w3.org/2000/svg" 
